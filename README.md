@@ -1,2 +1,2 @@
 # roombooking-bot
-This is room booking project on GitHub
+教室利用の申請用bot
